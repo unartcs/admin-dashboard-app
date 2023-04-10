@@ -1,10 +1,11 @@
 Admin Dashboard Application using React and a few libraries
 
 Technologies I am gonna use:
--React
--Material UI
--Nivo Charts
--Formik
--Yup
--FullCalendar
--Data Grid
+</br>
+-React</br>
+-Material UI</br>
+-Nivo Charts</br>
+-Formik</br>
+-Yup</br>
+-FullCalendar</br>
+-Data Grid</br>
