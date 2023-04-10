@@ -1,6 +1,6 @@
-Admin Dashboard Application using React and a few libraries
+<h1>Admin Dashboard Application using <b>React</b></h1>
 
-Technologies I am gonna use:
+<h2>Technologies I am gonna use:</h2>
 </br>
 -React</br>
 -Material UI</br>
